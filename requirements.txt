@@ -1,0 +1,13 @@
+
+## Contents
+
+- Synthetic fashion review dataset
+- Dataset generation notebook
+- Machine learning experiment notebook
+- Statistical evaluation notebook
+- Flask API implementation
+- Trained SVM model
+
+## Final Model
+
+Support Vector Machine (SVM) with TF-IDF feature extraction.
